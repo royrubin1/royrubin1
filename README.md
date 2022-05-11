@@ -1,0 +1,5 @@
+- 👋  Hi, I'm Roy, and welcome to my GitHub bio.
+- ⚡ Networks, Linux and coding are my passions.
+- 🌱 I’m currently learning cybersecurity, C and Python.
+- 📫 Email: roy.coding@protonmail.com
+- 🇪🇸 I'm based in Madrid, Spain.
