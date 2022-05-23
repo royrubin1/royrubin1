@@ -1,5 +1,5 @@
 - 👋  Hi, I'm Roy, and welcome to my GitHub bio.
-- ⚡ Networks, Linux and coding are my passions.
+- ⚡ Data, Linux and coding are my passions.
 - 🌱 I’m currently learning cybersecurity and Python.
 - 📫 Email: royrubin@protonmail.com
 - 🇪🇸 I'm based in Madrid, Spain.
