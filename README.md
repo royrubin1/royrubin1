@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning web and mobile app dev.
 - 📫 Email: royrubin15@gmail.com
 - 🇪🇸 I'm based in Madrid, Spain.
-- 🌐 Some of my web projects: http://royrubin.byethost6.com/
+- 🌐 My website: royrubin.es
